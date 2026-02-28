@@ -1,31 +1,46 @@
 [
   
    {
-    "title": "QURAN 16 Lines",
+    "title": "QURAN 16 Lines قرآن مجید",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/AL QURAN 16 Lines Taj Company.pdf"
   },
   {
-    "title": "Faiz on Noor",
+    "title": "Faiz on Noor فیضُ النور",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/fnoor1.pdf"
   },
   {
-    "title": "hisnhaseen",
+    "title": "hisnhaseen حصنِ حصین",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/hisnhaseen.pdf"
-  },
+  }
+  ,
 {
-    "title": "Naqsh e Sulaimani",
+    "title": "Hizb-ul-Bahr حزب البحر",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/hizbolbahar.pdf"
+  }
+  ,
+
+  {
+    "title": "Hizb Nasr حزب النصر",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/hizbunnasar.pdf"
+  }
+,
+  {
+    "title": "Tuhfatul Mashaikh تحفة المشائخ",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/tahfaemashaikh.pdf"
+  }
+  
+  ,
+  
+{
+    "title": "Naqsh e Sulaimani نقشِ سلیمانی",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/naqsisulaimani.pdf"
   },
 {
-    "title": "Roza tol Saleheen",
+    "title": "Roza tol Saleheen روضۃُ الصالحین",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/raozatussaleheen.pdf"
   },
 {
-    "title": "Tohfa tol Mashaikh",
-    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/tahfaemashaikh.pdf"
-  },
-{
-    "title": "Manzil",
+    "title": "Manzil منزل",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/manzil.pdf"
   }
 
