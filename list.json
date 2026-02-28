@@ -27,10 +27,8 @@
   {
     "title": "Tuhfatul Mashaikh تحفة المشائخ",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/tahfaemashaikh.pdf"
-  }
-  
-  ,
-  
+  } 
+  ,  
 {
     "title": "Naqsh e Sulaimani نقشِ سلیمانی",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/naqsisulaimani.pdf"
@@ -42,6 +40,31 @@
 {
     "title": "Manzil منزل",
     "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/manzil.pdf"
+  }
+  ,
+{
+    "title": "Zaad-us-SaeedByShaykhAshrafAliThanvir",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/Zaad-us-SaeedByShaykhAshrafAliThanvir.a.pdf"
+  }
+  ,
+{
+    "title": "Hizb ul Kabeer حزب الكبير",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/Hizb ul Kabeer-1.pdf"
+  }
+  ,
+{
+    "title": "Dalail e Khairat دلائل الخیرات",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/Dalail e Khairat.pdf"
+  }
+  ,
+{
+    "title": "Zariatul-Wusool ذریعۃ الوصول",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/Zariatul-Wusool.pdf"
+  }
+  ,
+{
+    "title": "لطف لطیف",
+    "url": "https://raw.githubusercontent.com/Angarchand/Pdf_Library_Shazli/main/pdfs/لطف لطیف.pdf"
   }
 
 ]
